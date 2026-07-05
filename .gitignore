@@ -1,6 +1,7 @@
 # Environment variables
 .env
 backend/.env
+.devcontainer/
 
 # Python
 __pycache__/
